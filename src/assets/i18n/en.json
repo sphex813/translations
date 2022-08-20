@@ -1,0 +1,8 @@
+{
+  "title": "Angular app i18n: ngx-translate with custom TranslateParser to hyphenate words",
+  "text": "This is a text field to demonstrate hyphenation in an Angular application using the ngx-translate library without using a custom translate pipe",
+  "language": {
+    "english": "English",
+    "slovak": "Slovak"
+  }
+}

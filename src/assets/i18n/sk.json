@@ -1,0 +1,8 @@
+{
+  "title": "Angular app i18n: ngx-translate s vlastným použitím TranslateParser na rozdelovanie slov",
+  "text": "Toto je textové pole na demonštráciu rozdelovania slov v Angular aplikácii s použtím knižnice ngx-translate bez použitia vlastnej translate pipe",
+  "language": {
+    "english": "Angličtina",
+    "slovak": "Slovenčina"
+  }
+}
